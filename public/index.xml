@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Deverloper Guy</title>
+    <link>https://webdeveloperguy.com/</link>
+    <description>Web Deverloper Guy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+    <atom:link href="https://webdeveloperguy.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact</title>
+      <link>https://webdeveloperguy.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://webdeveloperguy.com/contact/</guid>
+      <description>&lt;p&gt;Fill the form and say some nice stuff! I&amp;rsquo;ll contact you :)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Legal Information</title>
+      <link>https://webdeveloperguy.com/legal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://webdeveloperguy.com/legal/</guid>
+      <description>&lt;p&gt;I reserve the rights of all information presented on this website, the copy, distribution or sale will be penalized in accordance with intellectual property and copyright laws.&lt;/p&gt;
+&lt;p&gt;This website is only for informational purposes, I am not responsible for the misuse that may be given.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://webdeveloperguy.com/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://webdeveloperguy.com/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy</title>
+      <link>https://webdeveloperguy.com/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://webdeveloperguy.com/privacy/</guid>
+      <description>&lt;p&gt;All the data you sent on this website will be directly sent to my work email and will be treated as confidential. I won&amp;rsquo;t sell or distribute any data to anyone.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Who am I?</title>
+      <link>https://webdeveloperguy.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://webdeveloperguy.com/about/</guid>
+      <description>&lt;p&gt;Originally my life goal was to study medicine and be a surgeon, but something changed when I started to explore online games, I was obsessed to know how they were created and see the internal functioning so I started creating very basic websites for my friends just to to learn. I can say that my interest in programming was born approximately in 2004 and since then I decided to study Computer Science, I graduated in high school as an IT Technician and by 2015 I already had advanced knowledge in the web world.&lt;/p&gt;
+&lt;p&gt;I have participated in several public and private projects and I have always looked for the most optimal way to do them. I like the programming of applications for all types of devices and one of my goals is to create someday a game like the ones I played as a child.&lt;/p&gt;
+&lt;p&gt;I have discovered what I like, what I love and what I want to continue doing the rest of my life: Being a developer.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Work Portfolio</title>
+      <link>https://webdeveloperguy.com/portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://webdeveloperguy.com/portfolio/</guid>
+      <description>&lt;p&gt;This is some of my work as a web developer, mostly all are corporate websites.&lt;/p&gt;
+&lt;h3 id=&#34;metraje&#34;&gt;Metraje&lt;/h3&gt;
+&lt;p&gt;Study of visual and cinematographic production.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.metraje.com.mx/&#34;&gt;View site&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;enlight&#34;&gt;Enlight&lt;/h3&gt;
+&lt;p&gt;Solar panels company.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.enlight.mx/&#34;&gt;View site&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;cps-seguros&#34;&gt;CPS Seguros&lt;/h3&gt;
+&lt;p&gt;Insurance company.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://cpsseguros.com/&#34;&gt;View site&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;red-rabbit&#34;&gt;Red Rabbit&lt;/h3&gt;
+&lt;p&gt;Comprehensive communication service company.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://redrabbitadb.com/&#34;&gt;View site&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;sicarga&#34;&gt;Sicarga&lt;/h3&gt;
+&lt;p&gt;Logistic service company.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://sicarga.com.pa/es/&#34;&gt;View site&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;evento-con-santa&#34;&gt;Evento con Santa&lt;/h3&gt;
+&lt;p&gt;Christmas Santa for events, business and home.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://eventoconsanta.com/&#34;&gt;View site&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;chrismas&#34;&gt;Chrismas&lt;/h3&gt;
+&lt;p&gt;Santa school for events.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://chrismas.com.mx/&#34;&gt;View site&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

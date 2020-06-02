@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://webdeveloperguy.com/</loc>
+  </url>
+  
+  <url>
+    <loc>https://webdeveloperguy.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://webdeveloperguy.com/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://webdeveloperguy.com/legal/</loc>
+  </url>
+  
+  <url>
+    <loc>https://webdeveloperguy.com/posts/</loc>
+  </url>
+  
+  <url>
+    <loc>https://webdeveloperguy.com/privacy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://webdeveloperguy.com/series/</loc>
+  </url>
+  
+  <url>
+    <loc>https://webdeveloperguy.com/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://webdeveloperguy.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://webdeveloperguy.com/portfolio/</loc>
+  </url>
+  
+</urlset>

@@ -1,0 +1,68 @@
+baseURL = "https://webdeveloperguy.com/"
+languageCode = "en-us"
+title = "Web Deverloper Guy"
+theme = "anubis"
+disqusShortname = "webdeveloperguy"
+googleAnalytics = "UA-112060192-1"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "/home/dev"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "about"
+    name = "~/about"
+    url = "/about/"
+    weight = 2
+
+  [[menu.main]]
+    name = "~/posts"
+    identifier = "posts"
+    url = "/posts/"
+    weight = 3
+
+  [[menu.main]]
+    name = "~/contact"
+    identifier = "contact"
+    url = "/contact/"
+    weight = 4
+
+  [[menu.footer]]
+    name = "./legal_information"
+    identifier = "legal_information"
+    url = "/legal/"
+    weight = 1
+
+  [[menu.footer]]
+    name = "./privacy"
+    identifier = "privacy"
+    url = "/privacy/"
+    weight = 2
+
+  [[menu.footer]]
+    name = "./contact"
+    identifier = "contact"
+    url = "/contact/"
+    weight = 3
+
+  [[menu.footer]]
+    name = "./github"
+    identifier = "github"
+    url = "https://github.com/wapcrazut"
+    weight = 4
+
+
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[params]
+  author = "Williams Crazut"
+  description = "Web developer"
+
